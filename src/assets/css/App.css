@@ -63,3 +63,7 @@ table {
 a {
 	text-decoration: none;
 }
+
+marquee {
+	background-color: red;
+}
